@@ -16,39 +16,6 @@ home to the next level.
 
 If you want to do add the repository manually, please follow the procedure highlighted in the [Home Assistant website](https://home-assistant.io/hassio/installing_third_party_addons). Use the following URL to add this repository: https://github.com/alexbelgium/hassio-addons
 
-## Statistics
-
-### Number of addons
-
-- In the repository : 95
-- Installed : 74807
-
-### Top 3
-
-1. Filebrowser (15944x)
-2. Portainer (5639x)
-3. Postgres (2844x)
-
-### Architectures used
-
-- amd64: 57%
-- aarch64: 37%
-- armv7: 6%
-
-### Total downloads evolution
-
-<img src="https://raw.githubusercontent.com/alexbelgium/hassio-addons/master/.github/stats.png" width=500px>
-
-### Specific downloads evolution
-
-<img src="https://raw.githubusercontent.com/alexbelgium/hassio-addons/master/.github/stats_addons.png" width=500px>
-
-### Stars evolution
-
-<a href="https://star-history.com">
-  <img src="https://raw.githubusercontent.com/alexbelgium/hassio-addons/master/.github/starsevol.svg" width=500px>
-</a>
-
 ## Add-ons provided by this repository
 
 &#10003;  [Xteve](xteve/) : M3U Proxy for Plex DVR and Emby Live TV
